@@ -32,7 +32,7 @@ body {
 }
 
 .watermelon {
-  font-family: "rammetto one", cursive;
+  font-family: "Rammetto One", cursive;
 }
 
 .starfruit {
@@ -40,15 +40,13 @@ body {
 }
 
 .persimmon {
-  font-family: "comfortaa", sans-serif;
+  font-family: Comfortaa, sans-serif;
 }
 
 .content {
   font-family: "Open Sans", sans-serif;
 }
 
-/*
-font-family: 'Open Sans', sans-serif;
-font-family: 'Gravitas One', cursive;
-font-family: 'Rammetto One', cursive;
-font-family: 'Comfortaa', cursive; */
+.italic {
+  font-family: "Open Sans", cursive;
+}
